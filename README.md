@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Maahi Mishra</h1>
+<h3 align="center">Eager to learn and explore new Technologies</h3>
+<img align="right" alt="Coding" width="400" src="data:image/png;base64,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">
 
-<!--
-**MaahiMishra12222768/MaahiMishra12222768** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maahimishra12222768&label=Profile%20views&color=0e75b6&style=flat" alt="maahimishra12222768" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maahimishra12222768" alt="maahimishra12222768" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I’m currently working on **Suduko Project**
+
+- 🌱 I’m currently learning **Cyber security , DSA , MERN**
+
+- 💬 Ask me about **PYTHON , CPP , DSA , HTML , CSS**
+
+- 📫 How to reach me **maahimishra2004@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.codechef.com/users/maahi_1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="maahi_1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/maahimishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maahimishra" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maahimishra12222768&show_icons=true&locale=en&layout=compact" alt="maahimishra12222768" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maahimishra12222768&show_icons=true&locale=en" alt="maahimishra12222768" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maahimishra12222768&" alt="maahimishra12222768" /></p>
+
