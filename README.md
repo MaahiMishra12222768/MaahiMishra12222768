@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maahi Mishra</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/b970607c-445f-4ef0-8fa3-99b21bb2a2d8" />
-">
+<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/b970607c-445f-4ef0-8fa3-99b21bb2a2d8" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maahimishra12222768&label=Profile%20views&color=0e75b6&style=flat" alt="maahimishra12222768" /> </p>
 
